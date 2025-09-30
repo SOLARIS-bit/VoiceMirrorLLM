@@ -1,0 +1,10 @@
+torch
+torchaudio
+openai-whisper
+transformers
+sounddevice
+numpy
+scipy
+pydub
+gTTS
+playsound
