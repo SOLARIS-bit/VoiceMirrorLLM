@@ -8,3 +8,5 @@ scipy
 pydub
 gTTS
 playsound
+streamlit
+gradio
