@@ -10,3 +10,5 @@ gTTS
 playsound
 streamlit
 gradio
+deep-translator
+gtts
